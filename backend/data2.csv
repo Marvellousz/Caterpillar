@@ -1,0 +1,1001 @@
+﻿Id,Machine,Component,Value,Date,Time
+1,Asphalt Paver,Brake Control,10,6/5/2022,7:39:45 AM
+1,Articulated Truck,Brake Control,2,28/06/2022,1:17:39 AM
+1,Dozer,Brake Control,7,28/06/2022,11:08:17 PM
+1,Excavator,Brake Control,9,29/06/2022,10:23:48 PM
+1,Backhoe Loader,Brake Control,6,7/6/2022,8:39:49 AM
+1,Articulated Truck,Engine Speed,1700,12/5/2022,9:47:44 AM
+1,Backhoe Loader,Engine Speed,1352,19/05/2022,10:40:13 AM
+1,Asphalt Paver,Engine Speed,1340,23/05/2022,6:10:36 AM
+1,Excavator,Engine Speed,1755,5/5/2022,1:42:55 PM
+1,Dozer,Engine Speed,1580,7/5/2022,9:44:50 AM
+1,Dozer,Water Fuel,286,25/05/2022,3:32:03 AM
+1,Asphalt Paver,Water Fuel,1444,12/6/2022,11:59:41 PM
+1,Backhoe Loader,Water Fuel,1655,17/06/2022,11:44:09 AM
+1,Excavator,Water Fuel,434,27/06/2022,9:17:21 PM
+1,Articulated Truck,Water Fuel,50,9/6/2022,2:04:18 PM
+1,Dozer,System Voltage,13.25,14/05/2022,9:15:29 PM
+1,Asphalt Paver,System Voltage,13.22,19/05/2022,2:48:17 PM
+1,Articulated Truck,System Voltage,12.6,23/05/2022,10:00:10 AM
+1,Excavator,System Voltage,13.64,29/05/2022,1:45:10 AM
+1,Backhoe Loader,System Voltage,14.95,14/06/2022,7:01:40 AM
+2,Articulated Truck,Transmission Pressure,220,2/5/2022,7:24:10 AM
+2,Excavator,Transmission Pressure,406,25/05/2022,3:52:51 PM
+2,Dozer,Transmission Pressure,337,1/6/2022,6:08:22 AM
+2,Backhoe Loader,Transmission Pressure,219,14/06/2022,3:29:27 PM
+2,Asphalt Paver,Transmission Pressure,281,25/06/2022,1:19:46 AM
+2,Asphalt Paver,Engine Temparature,86,13/05/2022,6:00:54 AM
+2,Dozer,Engine Temparature,91,6/5/2022,8:48:50 PM
+2,Backhoe Loader,Engine Temparature,75,22/06/2022,10:39:35 AM
+2,Excavator,Engine Temparature,93,29/06/2022,6:42:51 PM
+2,Articulated Truck,Engine Temparature,75,9/6/2022,8:21:48 AM
+2,Articulated Truck,Fuel Level,10,15/05/2022,8:33:46 PM
+2,Dozer,Fuel Level,2,2/5/2022,5:43:34 AM
+2,Excavator,Fuel Level,2,27/05/2022,8:34:57 AM
+2,Asphalt Paver,Fuel Level,6,2/6/2022,7:20:33 PM
+2,Backhoe Loader,Fuel Level,1,3/6/2022,5:13:41 AM
+2,Asphalt Paver,Exhaust Gas Temparature,249,21/05/2022,10:05:51 PM
+2,Dozer,Exhaust Gas Temparature,244,6/5/2022,9:13:51 PM
+2,Articulated Truck,Exhaust Gas Temparature,190,1/6/2022,9:02:41 PM
+2,Backhoe Loader,Exhaust Gas Temparature,217,20/06/2022,2:48:18 PM
+2,Excavator,Exhaust Gas Temparature,304,8/6/2022,8:46:11 PM
+3,Dozer,Pedal Sensor,3.04,12/5/2022,6:44:37 AM
+3,Articulated Truck,Pedal Sensor,4.2,20/05/2022,8:12:30 PM
+3,Excavator,Pedal Sensor,3.55,13/06/2022,12:44:10 AM
+3,Asphalt Paver,Pedal Sensor,3.06,26/06/2022,5:42:38 PM
+3,Backhoe Loader,Pedal Sensor,4.83,6/6/2022,6:35:59 AM
+3,Excavator,Engine Oil Pressure,59,7/5/2022,4:15:39 PM
+3,Articulated Truck,Engine Oil Pressure,60,1/6/2022,6:55:45 PM
+3,Backhoe Loader,Engine Oil Pressure,30,12/6/2022,6:40:10 AM
+3,Asphalt Paver,Engine Oil Pressure,58,20/06/2022,10:44:49 PM
+3,Dozer,Engine Oil Pressure,53,28/06/2022,2:33:43 AM
+3,Backhoe Loader,Temparature,243,1/5/2022,8:01:41 AM
+3,Dozer,Temparature,298,15/05/2022,6:09:14 PM
+3,Excavator,Temparature,398,20/06/2022,4:43:18 PM
+3,Asphalt Paver,Temparature,394,28/06/2022,4:22:54 AM
+3,Articulated Truck,Temparature,0,4/6/2022,11:24:10 PM
+3,Excavator,Hydraulic Pump Rate,124,27/05/2022,6:31:30 AM
+3,Dozer,Hydraulic Pump Rate,122,12/6/2022,9:23:01 PM
+3,Asphalt Paver,Hydraulic Pump Rate,124,13/06/2022,4:09:44 PM
+3,Articulated Truck,Hydraulic Pump Rate,115,19/06/2022,4:00:29 AM
+3,Backhoe Loader,Hydraulic Pump Rate,95,29/06/2022,10:33:09 PM
+4,Backhoe Loader,Transmission Pressure,292,14/05/2022,11:42:22 AM
+4,Articulated Truck,Transmission Pressure,335,21/05/2022,11:13:39 AM
+4,Asphalt Paver,Transmission Pressure,259,7/5/2022,9:40:36 PM
+4,Dozer,Transmission Pressure,246,17/06/2022,7:14:41 AM
+4,Excavator,Transmission Pressure,263,7/6/2022,3:43:41 AM
+4,Dozer,Engine Temparature,89,16/05/2022,8:00:59 AM
+4,Asphalt Paver,Engine Temparature,98,23/05/2022,12:25:54 PM
+4,Excavator,Engine Temparature,104,11/6/2022,2:27:32 PM
+4,Articulated Truck,Engine Temparature,78,3/6/2022,9:24:15 PM
+4,Backhoe Loader,Engine Temparature,82,9/6/2022,3:45:26 AM
+4,Articulated Truck,Fuel Pressure,44,21/05/2022,11:07:40 PM
+4,Asphalt Paver,Fuel Pressure,45,22/05/2022,11:28:24 AM
+4,Excavator,Fuel Pressure,43,22/05/2022,11:13:12 PM
+4,Dozer,Fuel Pressure,47,30/05/2022,2:58:22 PM
+4,Backhoe Loader,Fuel Pressure,37,3/6/2022,4:57:24 PM
+4,Articulated Truck,Air Filter Pressure,22,23/06/2022,11:50:43 PM
+4,Backhoe Loader,Air Filter Pressure,30,23/06/2022,5:12:43 AM
+4,Dozer,Air Filter Pressure,34,25/06/2022,10:35:06 PM
+4,Asphalt Paver,Air Filter Pressure,26,30/06/2022,7:39:21 PM
+4,Excavator,Air Filter Pressure,22,5/6/2022,12:21:58 AM
+5,Dozer,Pedal Sensor,4.78,28/05/2022,3:30:19 AM
+5,Excavator,Pedal Sensor,3.73,29/05/2022,12:32:05 AM
+5,Articulated Truck,Pedal Sensor,4.4,1/6/2022,12:48:36 AM
+5,Asphalt Paver,Pedal Sensor,3.78,28/06/2022,4:42:14 AM
+5,Backhoe Loader,Pedal Sensor,4.41,5/6/2022,1:06:32 AM
+5,Asphalt Paver,Engine Speed,1538,17/05/2022,8:18:57 AM
+5,Articulated Truck,Engine Speed,1750,23/06/2022,11:02:43 AM
+5,Backhoe Loader,Engine Speed,1390,23/06/2022,6:41:21 AM
+5,Dozer,Engine Speed,1456,24/06/2022,5:00:51 PM
+5,Excavator,Engine Speed,1523,28/06/2022,6:46:31 AM
+5,Articulated Truck,Water Fuel,70,12/5/2022,2:05:42 AM
+5,Asphalt Paver,Water Fuel,1413,8/5/2022,8:35:07 AM
+5,Backhoe Loader,Water Fuel,125,19/06/2022,12:00:52 AM
+5,Excavator,Water Fuel,276,21/06/2022,11:20:42 AM
+5,Dozer,Water Fuel,287,6/6/2022,6:13:49 PM
+5,Backhoe Loader,System Voltage,15,22/05/2022,12:43:51 PM
+5,Asphalt Paver,System Voltage,15.42,29/05/2022,1:31:11 AM
+5,Excavator,System Voltage,13.76,20/06/2022,12:05:53 PM
+5,Articulated Truck,System Voltage,13.1,23/06/2022,8:53:35 PM
+5,Dozer,System Voltage,13.87,8/6/2022,1:17:06 PM
+6,Dozer,Transmission Pressure,222,27/05/2022,11:46:46 PM
+6,Excavator,Transmission Pressure,255,6/5/2022,5:00:42 AM
+6,Backhoe Loader,Transmission Pressure,376,23/06/2022,5:33:09 PM
+6,Asphalt Paver,Transmission Pressure,332,28/06/2022,11:55:33 PM
+6,Articulated Truck,Transmission Pressure,375,29/06/2022,2:58:38 AM
+6,Backhoe Loader,Engine Oil Pressure,51,26/05/2022,3:48:32 PM
+6,Excavator,Engine Oil Pressure,60,20/06/2022,3:06:27 PM
+6,Articulated Truck,Engine Oil Pressure,67,21/06/2022,5:50:42 PM
+6,Dozer,Engine Oil Pressure,61,28/06/2022,1:49:14 PM
+6,Asphalt Paver,Engine Oil Pressure,62,3/6/2022,11:49:56 AM
+6,Backhoe Loader,Fuel Level,5,23/05/2022,6:45:54 PM
+6,Asphalt Paver,Fuel Level,1,28/06/2022,8:12:28 AM
+6,Dozer,Fuel Level,6,3/6/2022,3:23:27 PM
+6,Excavator,Fuel Level,10,3/6/2022,6:21:34 PM
+6,Articulated Truck,Fuel Level,9,7/6/2022,2:19:48 PM
+6,Backhoe Loader,Exhaust Gas Temparature,223,2/5/2022,8:37:26 AM
+6,Dozer,Exhaust Gas Temparature,368,4/5/2022,9:10:32 PM
+6,Asphalt Paver,Exhaust Gas Temparature,323,11/6/2022,3:24:26 AM
+6,Excavator,Exhaust Gas Temparature,312,15/06/2022,1:51:50 PM
+6,Articulated Truck,Exhaust Gas Temparature,210,29/06/2022,2:50:21 PM
+7,Backhoe Loader,Pedal Sensor,3.81,22/05/2022,3:47:34 PM
+7,Excavator,Pedal Sensor,3.27,5/5/2022,1:18:09 PM
+7,Dozer,Pedal Sensor,3.63,9/5/2022,12:13:56 PM
+7,Asphalt Paver,Pedal Sensor,3.12,24/06/2022,3:34:30 AM
+7,Articulated Truck,Pedal Sensor,3.9,3/6/2022,7:01:05 PM
+7,Dozer,Engine Temparature,91,12/5/2022,8:33:48 AM
+7,Backhoe Loader,Engine Temparature,97,19/05/2022,7:14:37 AM
+7,Articulated Truck,Engine Temparature,80,28/05/2022,11:52:38 PM
+7,Asphalt Paver,Engine Temparature,87,30/05/2022,6:55:59 PM
+7,Excavator,Engine Temparature,91,26/06/2022,7:35:36 PM
+7,Excavator,Temparature,287,13/05/2022,10:39:16 PM
+7,Dozer,Temparature,258,19/05/2022,10:03:33 AM
+7,Articulated Truck,Temparature,0,2/5/2022,3:33:29 PM
+7,Asphalt Paver,Temparature,398,9/5/2022,3:18:22 AM
+7,Backhoe Loader,Temparature,225,27/06/2022,9:18:03 PM
+7,Excavator,Hydraulic Pump Rate,92,14/05/2022,1:26:37 PM
+7,Asphalt Paver,Hydraulic Pump Rate,113,16/05/2022,7:59:41 AM
+7,Backhoe Loader,Hydraulic Pump Rate,83,16/06/2022,8:11:03 PM
+7,Dozer,Hydraulic Pump Rate,119,19/06/2022,5:59:36 AM
+7,Articulated Truck,Hydraulic Pump Rate,118,29/06/2022,9:21:13 PM
+8,Articulated Truck,Brake Control,8,16/05/2022,9:07:13 AM
+8,Dozer,Brake Control,8,18/06/2022,2:11:56 PM
+8,Excavator,Brake Control,8,20/06/2022,1:28:45 AM
+8,Asphalt Paver,Brake Control,10,22/06/2022,3:54:37 PM
+8,Backhoe Loader,Brake Control,3,4/6/2022,10:55:47 PM
+8,Articulated Truck,Engine Speed,1600,1/5/2022,7:51:35 PM
+8,Asphalt Paver,Engine Speed,1391,3/5/2022,10:17:08 PM
+8,Dozer,Engine Speed,1357,9/5/2022,12:13:17 PM
+8,Excavator,Engine Speed,1573,9/5/2022,12:19:43 PM
+8,Backhoe Loader,Engine Speed,1429,2/6/2022,5:20:30 PM
+8,Asphalt Paver,Fuel Pressure,60,15/05/2022,3:03:08 PM
+8,Dozer,Fuel Pressure,48,21/05/2022,9:04:59 PM
+8,Excavator,Fuel Pressure,36,7/5/2022,12:43:42 AM
+8,Backhoe Loader,Fuel Pressure,59,26/06/2022,11:53:34 AM
+8,Articulated Truck,Fuel Pressure,46,9/6/2022,2:12:56 PM
+8,Backhoe Loader,Air Filter Pressure,27,18/05/2022,4:12:39 PM
+8,Asphalt Paver,Air Filter Pressure,25,21/05/2022,7:16:50 AM
+8,Excavator,Air Filter Pressure,27,29/05/2022,7:50:57 PM
+8,Dozer,Air Filter Pressure,21,5/5/2022,11:01:26 AM
+8,Articulated Truck,Air Filter Pressure,23,3/6/2022,12:36:16 AM
+9,Asphalt Paver,Brake Control,5,12/5/2022,7:33:47 AM
+9,Excavator,Brake Control,7,19/05/2022,4:41:33 PM
+9,Backhoe Loader,Brake Control,6,2/5/2022,1:13:33 PM
+9,Dozer,Brake Control,5,3/5/2022,12:48:06 PM
+9,Articulated Truck,Brake Control,3,16/06/2022,6:04:01 PM
+9,Excavator,Engine Oil Pressure,60,11/5/2022,8:31:41 AM
+9,Backhoe Loader,Engine Oil Pressure,49,20/05/2022,11:47:05 AM
+9,Asphalt Paver,Engine Oil Pressure,61,30/05/2022,6:17:39 AM
+9,Dozer,Engine Oil Pressure,25,30/05/2022,2:08:01 PM
+9,Articulated Truck,Engine Oil Pressure,64,18/06/2022,10:48:23 AM
+9,Dozer,Water Fuel,1315,10/5/2022,9:05:26 AM
+9,Excavator,Water Fuel,422,18/05/2022,9:05:23 PM
+9,Backhoe Loader,Water Fuel,1697,20/05/2022,12:23:14 PM
+9,Asphalt Paver,Water Fuel,887,21/05/2022,11:04:03 AM
+9,Articulated Truck,Water Fuel,73,26/05/2022,6:34:09 PM
+9,Articulated Truck,System Voltage,12.7,16/05/2022,10:24:02 PM
+9,Asphalt Paver,System Voltage,13.01,18/05/2022,3:57:02 PM
+9,Backhoe Loader,System Voltage,13.52,26/05/2022,8:01:50 PM
+9,Excavator,System Voltage,12.71,24/06/2022,8:26:17 PM
+9,Dozer,System Voltage,14.38,5/6/2022,5:05:32 AM
+10,Dozer,Brake Control,2,10/5/2022,7:19:42 PM
+10,Articulated Truck,Brake Control,7,13/05/2022,6:58:13 PM
+10,Asphalt Paver,Brake Control,7,14/05/2022,12:07:02 PM
+10,Backhoe Loader,Brake Control,9,27/05/2022,6:48:48 PM
+10,Excavator,Brake Control,10,7/6/2022,11:45:49 AM
+10,Asphalt Paver,Engine Speed,1331,25/05/2022,1:26:46 PM
+10,Articulated Truck,Engine Speed,1800,9/5/2022,9:14:01 AM
+10,Backhoe Loader,Engine Speed,1521,17/06/2022,9:14:28 PM
+10,Excavator,Engine Speed,1760,19/06/2022,6:36:52 PM
+10,Dozer,Engine Speed,1581,6/6/2022,5:21:56 PM
+10,Backhoe Loader,Fuel Level,8,1/5/2022,8:42:30 PM
+10,Excavator,Fuel Level,7,25/05/2022,8:33:28 AM
+10,Dozer,Fuel Level,3,5/5/2022,3:16:55 PM
+10,Asphalt Paver,Fuel Level,6,11/6/2022,4:01:11 AM
+10,Articulated Truck,Fuel Level,9,24/06/2022,9:38:45 AM
+10,Backhoe Loader,Exhaust Gas Temparature,354,27/05/2022,3:05:19 PM
+10,Dozer,Exhaust Gas Temparature,347,5/5/2022,9:47:49 PM
+10,Excavator,Exhaust Gas Temparature,359,1/6/2022,5:43:24 AM
+10,Articulated Truck,Exhaust Gas Temparature,222,17/06/2022,4:21:38 AM
+10,Asphalt Paver,Exhaust Gas Temparature,338,19/06/2022,2:42:12 AM
+11,Dozer,Transmission Pressure,394,6/5/2022,7:56:22 AM
+11,Excavator,Transmission Pressure,443,6/5/2022,8:00:16 PM
+11,Articulated Truck,Transmission Pressure,275,7/5/2022,12:00:26 AM
+11,Backhoe Loader,Transmission Pressure,385,7/5/2022,6:50:08 PM
+11,Asphalt Paver,Transmission Pressure,437,22/06/2022,2:49:59 PM
+11,Dozer,Engine Oil Pressure,28,22/05/2022,1:06:23 AM
+11,Asphalt Paver,Engine Oil Pressure,56,27/05/2022,12:21:44 PM
+11,Excavator,Engine Oil Pressure,42,4/5/2022,8:34:48 AM
+11,Backhoe Loader,Engine Oil Pressure,47,20/06/2022,9:55:41 AM
+11,Articulated Truck,Engine Oil Pressure,72,21/06/2022,6:05:54 PM
+11,Asphalt Paver,Temparature,272,14/05/2022,5:05:47 PM
+11,Dozer,Temparature,247,10/6/2022,2:57:19 PM
+11,Backhoe Loader,Temparature,224,25/06/2022,12:15:59 PM
+11,Excavator,Temparature,389,26/06/2022,4:18:32 AM
+11,Articulated Truck,Temparature,0,28/06/2022,7:18:20 PM
+11,Excavator,Hydraulic Pump Rate,105,19/05/2022,7:13:01 AM
+11,Dozer,Hydraulic Pump Rate,120,29/05/2022,10:17:50 AM
+11,Asphalt Paver,Hydraulic Pump Rate,99,4/5/2022,11:13:01 PM
+11,Articulated Truck,Hydraulic Pump Rate,110,6/5/2022,4:01:26 PM
+11,Backhoe Loader,Hydraulic Pump Rate,88,16/06/2022,9:07:33 PM
+12,Excavator,Pedal Sensor,4.54,14/05/2022,9:28:28 AM
+12,Backhoe Loader,Pedal Sensor,4.48,5/5/2022,9:50:28 PM
+12,Asphalt Paver,Pedal Sensor,4.77,6/5/2022,8:31:06 AM
+12,Dozer,Pedal Sensor,4.69,22/06/2022,9:04:58 PM
+12,Articulated Truck,Pedal Sensor,3.7,23/06/2022,12:10:54 AM
+12,Asphalt Paver,Engine Speed,1424,11/5/2022,11:42:11 AM
+12,Dozer,Engine Speed,1529,18/05/2022,8:55:34 PM
+12,Articulated Truck,Engine Speed,1345,13/06/2022,9:02:11 AM
+12,Backhoe Loader,Engine Speed,1720,28/06/2022,5:11:12 PM
+12,Excavator,Engine Speed,1644,6/6/2022,9:36:25 AM
+12,Backhoe Loader,Fuel Pressure,49,10/5/2022,4:48:40 AM
+12,Excavator,Fuel Pressure,35,12/5/2022,9:22:48 PM
+12,Dozer,Fuel Pressure,40,16/05/2022,12:24:13 PM
+12,Asphalt Paver,Fuel Pressure,42,11/6/2022,11:11:29 AM
+12,Articulated Truck,Fuel Pressure,56,29/06/2022,1:37:42 PM
+12,Backhoe Loader,Air Filter Pressure,25,2/6/2022,9:54:01 PM
+12,Excavator,Air Filter Pressure,22,24/06/2022,1:28:37 AM
+12,Articulated Truck,Air Filter Pressure,25,25/06/2022,8:18:50 AM
+12,Dozer,Air Filter Pressure,28,30/06/2022,3:55:21 PM
+12,Asphalt Paver,Air Filter Pressure,34,8/6/2022,2:35:27 PM
+13,Excavator,Transmission Pressure,403,11/5/2022,3:11:53 AM
+13,Asphalt Paver,Transmission Pressure,383,10/6/2022,5:48:52 PM
+13,Articulated Truck,Transmission Pressure,300,12/6/2022,10:26:46 PM
+13,Dozer,Transmission Pressure,223,5/6/2022,7:06:14 AM
+13,Backhoe Loader,Transmission Pressure,286,7/6/2022,3:24:30 AM
+13,Articulated Truck,Engine Temparature,90,15/05/2022,10:24:54 PM
+13,Asphalt Paver,Engine Temparature,87,15/05/2022,5:11:06 AM
+13,Excavator,Engine Temparature,75,24/05/2022,6:41:08 PM
+13,Backhoe Loader,Engine Temparature,79,10/6/2022,3:00:35 PM
+13,Dozer,Engine Temparature,89,21/06/2022,5:48:44 AM
+13,Articulated Truck,Water Fuel,78,24/05/2022,12:58:38 AM
+13,Asphalt Paver,Water Fuel,776,13/06/2022,7:58:05 PM
+13,Backhoe Loader,Water Fuel,387,16/06/2022,9:20:12 AM
+13,Excavator,Water Fuel,544,17/06/2022,3:59:54 PM
+13,Dozer,Water Fuel,231,4/6/2022,6:32:04 PM
+13,Articulated Truck,System Voltage,14.1,28/05/2022,6:14:45 AM
+13,Dozer,System Voltage,14.72,10/6/2022,6:17:06 AM
+13,Backhoe Loader,System Voltage,15.82,28/06/2022,7:01:22 PM
+13,Asphalt Paver,System Voltage,13.01,3/6/2022,5:52:59 AM
+13,Excavator,System Voltage,12.28,9/6/2022,6:04:51 AM
+14,Dozer,Pedal Sensor,4.43,12/5/2022,8:40:04 PM
+14,Backhoe Loader,Pedal Sensor,3.54,6/5/2022,6:34:37 PM
+14,Articulated Truck,Pedal Sensor,4.4,16/06/2022,12:37:05 AM
+14,Asphalt Paver,Pedal Sensor,3.79,7/6/2022,8:12:16 PM
+14,Excavator,Pedal Sensor,4.88,9/6/2022,7:43:49 PM
+14,Backhoe Loader,Engine Oil Pressure,45,21/05/2022,8:21:21 PM
+14,Articulated Truck,Engine Oil Pressure,44,27/05/2022,5:18:06 PM
+14,Dozer,Engine Oil Pressure,50,29/05/2022,1:59:44 PM
+14,Excavator,Engine Oil Pressure,37,30/05/2022,9:15:56 PM
+14,Asphalt Paver,Engine Oil Pressure,49,17/06/2022,12:42:43 AM
+14,Excavator,Fuel Level,4,10/5/2022,2:55:24 AM
+14,Backhoe Loader,Fuel Level,6,12/5/2022,3:06:55 PM
+14,Dozer,Fuel Level,6,28/05/2022,5:42:44 AM
+14,Articulated Truck,Fuel Level,9,20/06/2022,9:17:11 AM
+14,Asphalt Paver,Fuel Level,4,3/6/2022,6:24:34 PM
+14,Articulated Truck,Exhaust Gas Temparature,265,21/05/2022,8:03:16 PM
+14,Excavator,Exhaust Gas Temparature,306,6/5/2022,1:30:37 PM
+14,Backhoe Loader,Exhaust Gas Temparature,364,9/5/2022,12:01:34 PM
+14,Dozer,Exhaust Gas Temparature,344,19/06/2022,11:44:53 PM
+14,Asphalt Paver,Exhaust Gas Temparature,195,30/06/2022,8:17:40 PM
+15,Excavator,Transmission Pressure,381,23/05/2022,9:06:15 PM
+15,Dozer,Transmission Pressure,253,13/06/2022,6:03:10 AM
+15,Asphalt Paver,Transmission Pressure,306,25/06/2022,12:17:25 PM
+15,Articulated Truck,Transmission Pressure,337,29/06/2022,1:08:01 AM
+15,Backhoe Loader,Transmission Pressure,272,30/06/2022,3:28:03 PM
+15,Excavator,Engine Temparature,95,1/5/2022,1:12:10 PM
+15,Dozer,Engine Temparature,95,13/05/2022,7:50:37 AM
+15,Asphalt Paver,Engine Temparature,78,5/5/2022,12:55:14 AM
+15,Articulated Truck,Engine Temparature,100,14/06/2022,4:03:35 PM
+15,Backhoe Loader,Engine Temparature,93,28/06/2022,11:29:13 AM
+15,Articulated Truck,Temparature,0,23/05/2022,4:38:41 AM
+15,Excavator,Temparature,318,30/05/2022,11:01:49 PM
+15,Backhoe Loader,Temparature,363,23/06/2022,8:05:29 AM
+15,Asphalt Paver,Temparature,291,26/06/2022,4:23:21 AM
+15,Dozer,Temparature,326,27/06/2022,1:47:15 AM
+15,Excavator,Hydraulic Pump Rate,77,11/5/2022,11:58:00 AM
+15,Dozer,Hydraulic Pump Rate,111,12/5/2022,3:24:44 AM
+15,Asphalt Paver,Hydraulic Pump Rate,88,6/5/2022,3:35:16 PM
+15,Backhoe Loader,Hydraulic Pump Rate,85,23/06/2022,12:01:06 PM
+15,Articulated Truck,Hydraulic Pump Rate,120,30/06/2022,1:37:33 PM
+16,Asphalt Paver,Pedal Sensor,3.73,25/05/2022,11:57:45 AM
+16,Articulated Truck,Pedal Sensor,3.6,9/5/2022,2:21:51 PM
+16,Backhoe Loader,Pedal Sensor,4.88,16/06/2022,12:45:16 PM
+16,Dozer,Pedal Sensor,3.16,2/6/2022,5:40:47 PM
+16,Excavator,Pedal Sensor,3.69,21/06/2022,3:11:17 AM
+16,Asphalt Paver,Engine Speed,1554,12/5/2022,3:56:16 AM
+16,Articulated Truck,Engine Speed,1455,23/05/2022,1:33:32 AM
+16,Dozer,Engine Speed,1364,3/5/2022,10:01:42 AM
+16,Excavator,Engine Speed,1664,4/5/2022,5:16:55 AM
+16,Backhoe Loader,Engine Speed,1744,22/06/2022,2:38:08 AM
+16,Excavator,Fuel Pressure,50,19/05/2022,9:20:48 PM
+16,Dozer,Fuel Pressure,48,2/5/2022,5:24:00 PM
+16,Backhoe Loader,Fuel Pressure,57,22/05/2022,7:50:03 AM
+16,Asphalt Paver,Fuel Pressure,56,31/05/2022,12:07:35 AM
+16,Articulated Truck,Fuel Pressure,67,18/06/2022,10:52:44 AM
+16,Backhoe Loader,Air Filter Pressure,27,10/5/2022,2:45:14 PM
+16,Dozer,Air Filter Pressure,31,17/05/2022,8:48:22 PM
+16,Asphalt Paver,Air Filter Pressure,27,19/05/2022,8:12:25 PM
+16,Articulated Truck,Air Filter Pressure,27,21/05/2022,1:03:05 AM
+16,Excavator,Air Filter Pressure,23,23/05/2022,3:44:44 PM
+17,Excavator,Brake Control,4,10/5/2022,3:23:39 PM
+17,Dozer,Brake Control,9,8/5/2022,7:09:07 AM
+17,Backhoe Loader,Brake Control,2,9/5/2022,5:29:27 AM
+17,Articulated Truck,Brake Control,2,17/06/2022,5:25:02 AM
+17,Asphalt Paver,Brake Control,8,7/6/2022,7:51:31 PM
+17,Backhoe Loader,Engine Oil Pressure,40,13/05/2022,7:38:08 PM
+17,Articulated Truck,Engine Oil Pressure,33,23/05/2022,11:09:11 PM
+17,Asphalt Paver,Engine Oil Pressure,26,4/5/2022,2:15:50 PM
+17,Excavator,Engine Oil Pressure,32,8/5/2022,8:31:01 AM
+17,Dozer,Engine Oil Pressure,43,5/6/2022,3:39:07 AM
+17,Articulated Truck,Water Fuel,81,25/05/2022,9:48:09 PM
+17,Excavator,Water Fuel,1760,25/05/2022,12:08:12 AM
+17,Backhoe Loader,Water Fuel,1230,27/06/2022,11:49:20 PM
+17,Dozer,Water Fuel,1210,6/6/2022,11:08:28 PM
+17,Asphalt Paver,Water Fuel,539,9/6/2022,4:10:49 AM
+17,Excavator,System Voltage,12.02,1/5/2022,12:55:10 PM
+17,Backhoe Loader,System Voltage,14.29,17/05/2022,12:45:08 PM
+17,Articulated Truck,System Voltage,14.4,23/05/2022,11:17:38 AM
+17,Asphalt Paver,System Voltage,15.7,15/06/2022,1:04:37 AM
+17,Dozer,System Voltage,15.26,8/6/2022,3:27:31 PM
+18,Articulated Truck,Brake Control,8,20/05/2022,6:13:45 AM
+18,Asphalt Paver,Brake Control,10,24/05/2022,7:16:54 AM
+18,Excavator,Brake Control,7,28/05/2022,12:21:09 AM
+18,Backhoe Loader,Brake Control,10,5/5/2022,7:26:24 PM
+18,Dozer,Brake Control,2,12/6/2022,2:23:46 PM
+18,Backhoe Loader,Engine Temparature,93,16/05/2022,9:44:23 PM
+18,Asphalt Paver,Engine Temparature,90,27/05/2022,2:24:27 PM
+18,Articulated Truck,Engine Temparature,102,30/05/2022,7:29:25 AM
+18,Dozer,Engine Temparature,100,10/6/2022,5:46:17 PM
+18,Excavator,Engine Temparature,79,27/06/2022,11:20:31 AM
+18,Dozer,Fuel Level,3,9/5/2022,1:20:26 AM
+18,Backhoe Loader,Fuel Level,6,15/06/2022,4:21:53 PM
+18,Excavator,Fuel Level,6,23/06/2022,7:57:30 AM
+18,Asphalt Paver,Fuel Level,6,27/06/2022,2:26:16 PM
+18,Articulated Truck,Fuel Level,7,7/6/2022,2:38:27 AM
+18,Articulated Truck,Exhaust Gas Temparature,240,25/05/2022,12:20:39 AM
+18,Dozer,Exhaust Gas Temparature,202,17/06/2022,10:14:19 AM
+18,Backhoe Loader,Exhaust Gas Temparature,298,25/06/2022,2:13:54 PM
+18,Asphalt Paver,Exhaust Gas Temparature,263,29/06/2022,9:59:54 PM
+18,Excavator,Exhaust Gas Temparature,213,29/06/2022,10:26:12 PM
+19,Excavator,Brake Control,8,16/05/2022,4:26:30 PM
+19,Dozer,Brake Control,7,17/06/2022,5:04:01 PM
+19,Asphalt Paver,Brake Control,7,22/06/2022,8:46:50 AM
+19,Articulated Truck,Brake Control,4,24/06/2022,2:03:36 AM
+19,Backhoe Loader,Brake Control,10,7/6/2022,1:33:05 AM
+19,Asphalt Paver,Engine Speed,1481,12/5/2022,4:52:16 AM
+19,Excavator,Engine Speed,1712,3/5/2022,7:01:03 AM
+19,Articulated Truck,Engine Speed,1650,20/06/2022,1:46:58 PM
+19,Backhoe Loader,Engine Speed,1666,20/06/2022,2:33:46 AM
+19,Dozer,Engine Speed,1665,4/6/2022,1:31:15 PM
+19,Asphalt Paver,Temparature,395,2/5/2022,7:43:44 AM
+19,Articulated Truck,Temparature,0,20/05/2022,1:06:28 PM
+19,Backhoe Loader,Temparature,250,23/05/2022,5:34:59 PM
+19,Dozer,Temparature,377,26/05/2022,12:09:14 AM
+19,Excavator,Temparature,295,4/6/2022,7:05:47 PM
+19,Excavator,Hydraulic Pump Rate,96,21/05/2022,12:46:28 PM
+19,Backhoe Loader,Hydraulic Pump Rate,117,23/05/2022,7:36:49 AM
+19,Dozer,Hydraulic Pump Rate,113,30/05/2022,7:30:06 PM
+19,Asphalt Paver,Hydraulic Pump Rate,84,20/06/2022,11:33:11 PM
+19,Articulated Truck,Hydraulic Pump Rate,122,30/06/2022,6:55:06 PM
+20,Articulated Truck,Brake Control,5,12/5/2022,9:48:46 AM
+20,Dozer,Brake Control,10,26/05/2022,6:06:30 AM
+20,Asphalt Paver,Brake Control,8,30/05/2022,6:53:00 PM
+20,Excavator,Brake Control,5,2/6/2022,2:28:19 AM
+20,Backhoe Loader,Brake Control,9,28/06/2022,5:59:38 AM
+20,Excavator,Engine Oil Pressure,58,19/05/2022,10:27:24 AM
+20,Articulated Truck,Engine Oil Pressure,55,8/5/2022,5:09:11 PM
+20,Asphalt Paver,Engine Oil Pressure,29,19/06/2022,2:44:14 PM
+20,Backhoe Loader,Engine Oil Pressure,41,2/6/2022,11:23:52 AM
+20,Dozer,Engine Oil Pressure,54,21/06/2022,2:25:38 PM
+20,Dozer,Fuel Pressure,38,2/5/2022,2:34:40 PM
+20,Excavator,Fuel Pressure,45,25/05/2022,2:23:13 AM
+20,Backhoe Loader,Fuel Pressure,47,12/6/2022,6:58:22 PM
+20,Articulated Truck,Fuel Pressure,62,9/6/2022,3:52:58 AM
+20,Asphalt Paver,Fuel Pressure,65,9/6/2022,12:47:04 AM
+20,Dozer,Air Filter Pressure,31,23/05/2022,4:38:09 AM
+20,Backhoe Loader,Air Filter Pressure,23,14/06/2022,12:34:19 PM
+20,Articulated Truck,Air Filter Pressure,29,15/06/2022,4:45:30 PM
+20,Asphalt Paver,Air Filter Pressure,24,2/6/2022,5:54:24 PM
+20,Excavator,Air Filter Pressure,25,30/06/2022,8:00:49 PM
+21,Dozer,Transmission Pressure,402,23/05/2022,1:36:54 AM
+21,Asphalt Paver,Transmission Pressure,249,10/6/2022,1:16:38 PM
+21,Articulated Truck,Transmission Pressure,250,12/6/2022,9:34:23 PM
+21,Excavator,Transmission Pressure,374,27/06/2022,1:06:53 PM
+21,Backhoe Loader,Transmission Pressure,404,6/6/2022,5:28:15 PM
+21,Backhoe Loader,Engine Speed,1765,11/5/2022,8:59:36 PM
+21,Asphalt Paver,Engine Speed,1300,9/5/2022,6:46:11 AM
+21,Dozer,Engine Speed,1398,12/6/2022,5:42:56 AM
+21,Articulated Truck,Engine Speed,1640,2/6/2022,11:18:05 AM
+21,Excavator,Engine Speed,1712,6/6/2022,7:04:15 PM
+21,Excavator,Water Fuel,263,25/05/2022,8:41:35 AM
+21,Dozer,Water Fuel,1491,28/05/2022,6:46:43 AM
+21,Asphalt Paver,Water Fuel,1161,10/6/2022,5:56:28 PM
+21,Backhoe Loader,Water Fuel,1300,3/6/2022,1:26:34 AM
+21,Articulated Truck,Water Fuel,88,5/6/2022,12:55:51 AM
+21,Articulated Truck,System Voltage,14.7,29/05/2022,4:46:08 PM
+21,Dozer,System Voltage,14.4,9/5/2022,9:40:22 PM
+21,Asphalt Paver,System Voltage,13.11,14/06/2022,9:13:47 AM
+21,Backhoe Loader,System Voltage,15.03,24/06/2022,4:29:18 AM
+21,Excavator,System Voltage,15.19,26/06/2022,3:31:44 PM
+22,Excavator,Pedal Sensor,4.82,7/5/2022,11:39:05 AM
+22,Backhoe Loader,Pedal Sensor,3.14,9/5/2022,2:05:21 AM
+22,Articulated Truck,Pedal Sensor,3.6,17/06/2022,5:06:13 PM
+22,Asphalt Paver,Pedal Sensor,4.2,17/06/2022,11:11:51 AM
+22,Dozer,Pedal Sensor,3.7,2/6/2022,6:29:57 PM
+22,Asphalt Paver,Engine Oil Pressure,32,24/05/2022,1:49:49 PM
+22,Dozer,Engine Oil Pressure,48,28/05/2022,5:24:46 AM
+22,Articulated Truck,Engine Oil Pressure,65,25/06/2022,8:18:23 PM
+22,Backhoe Loader,Engine Oil Pressure,39,3/6/2022,10:35:39 PM
+22,Excavator,Engine Oil Pressure,26,4/6/2022,5:55:41 PM
+22,Excavator,Fuel Level,9,17/05/2022,3:55:05 PM
+22,Articulated Truck,Fuel Level,6,19/05/2022,2:06:43 AM
+22,Dozer,Fuel Level,8,17/06/2022,8:17:44 AM
+22,Backhoe Loader,Fuel Level,8,21/06/2022,4:09:58 PM
+22,Asphalt Paver,Fuel Level,7,5/6/2022,2:21:53 PM
+22,Excavator,Exhaust Gas Temparature,240,2/5/2022,7:48:17 AM
+22,Asphalt Paver,Exhaust Gas Temparature,243,27/05/2022,2:03:43 AM
+22,Dozer,Exhaust Gas Temparature,332,8/5/2022,10:33:05 AM
+22,Backhoe Loader,Exhaust Gas Temparature,205,18/06/2022,1:20:27 AM
+22,Articulated Truck,Exhaust Gas Temparature,210,21/06/2022,3:15:52 AM
+23,Backhoe Loader,Transmission Pressure,231,12/5/2022,8:36:47 PM
+23,Asphalt Paver,Transmission Pressure,427,26/05/2022,4:51:14 PM
+23,Excavator,Transmission Pressure,399,17/06/2022,2:44:30 AM
+23,Dozer,Transmission Pressure,450,25/06/2022,8:31:34 AM
+23,Articulated Truck,Transmission Pressure,321,9/6/2022,11:05:39 PM
+23,Articulated Truck,Engine Speed,1340,27/05/2022,10:41:55 PM
+23,Excavator,Engine Speed,1593,30/05/2022,5:05:19 AM
+23,Backhoe Loader,Engine Speed,1422,9/5/2022,3:32:27 PM
+23,Asphalt Paver,Engine Speed,1622,13/06/2022,6:30:57 AM
+23,Dozer,Engine Speed,1497,27/06/2022,10:36:32 PM
+23,Dozer,Temparature,372,23/05/2022,8:40:00 PM
+23,Asphalt Paver,Temparature,288,8/5/2022,10:16:58 AM
+23,Articulated Truck,Temparature,0,16/06/2022,1:19:07 PM
+23,Backhoe Loader,Temparature,376,18/06/2022,4:45:24 PM
+23,Excavator,Temparature,300,26/06/2022,9:05:19 AM
+23,Excavator,Hydraulic Pump Rate,80,11/5/2022,2:50:34 PM
+23,Asphalt Paver,Hydraulic Pump Rate,88,12/6/2022,7:45:44 PM
+23,Dozer,Hydraulic Pump Rate,90,15/06/2022,11:11:04 AM
+23,Articulated Truck,Hydraulic Pump Rate,123,18/06/2022,7:07:58 PM
+23,Backhoe Loader,Hydraulic Pump Rate,96,21/06/2022,5:32:11 AM
+24,Backhoe Loader,Pedal Sensor,3.11,26/05/2022,7:34:57 AM
+24,Excavator,Pedal Sensor,4.26,26/05/2022,4:44:24 AM
+24,Asphalt Paver,Pedal Sensor,4.95,8/5/2022,2:36:59 PM
+24,Articulated Truck,Pedal Sensor,4.5,14/06/2022,8:05:06 AM
+24,Dozer,Pedal Sensor,3.93,6/6/2022,7:17:54 AM
+24,Backhoe Loader,Engine Temparature,94,25/05/2022,4:47:33 AM
+24,Articulated Truck,Engine Temparature,104,27/05/2022,6:25:04 AM
+24,Asphalt Paver,Engine Temparature,105,12/6/2022,6:49:39 PM
+24,Dozer,Engine Temparature,95,23/06/2022,2:05:25 AM
+24,Excavator,Engine Temparature,81,23/06/2022,10:14:14 AM
+24,Asphalt Paver,Fuel Pressure,37,11/5/2022,1:30:10 AM
+24,Excavator,Fuel Pressure,37,4/5/2022,4:55:48 AM
+24,Dozer,Fuel Pressure,52,17/06/2022,3:01:41 AM
+24,Backhoe Loader,Fuel Pressure,42,21/06/2022,3:12:57 PM
+24,Articulated Truck,Fuel Pressure,56,7/6/2022,12:15:03 PM
+24,Excavator,Air Filter Pressure,22,14/06/2022,10:34:17 PM
+24,Dozer,Air Filter Pressure,20,2/6/2022,10:34:24 PM
+24,Articulated Truck,Air Filter Pressure,31,23/06/2022,11:45:21 PM
+24,Asphalt Paver,Air Filter Pressure,32,26/06/2022,2:59:43 PM
+24,Backhoe Loader,Air Filter Pressure,23,30/06/2022,5:18:25 AM
+25,Excavator,Transmission Pressure,280,15/05/2022,7:10:41 PM
+25,Asphalt Paver,Transmission Pressure,378,20/05/2022,5:20:18 PM
+25,Dozer,Transmission Pressure,435,14/06/2022,1:45:54 AM
+25,Articulated Truck,Transmission Pressure,366,15/06/2022,3:14:31 PM
+25,Backhoe Loader,Transmission Pressure,262,25/06/2022,11:08:14 AM
+25,Excavator,Engine Oil Pressure,37,17/05/2022,11:42:24 PM
+25,Backhoe Loader,Engine Oil Pressure,55,18/05/2022,11:31:09 PM
+25,Articulated Truck,Engine Oil Pressure,45,22/05/2022,8:48:03 PM
+25,Asphalt Paver,Engine Oil Pressure,46,24/05/2022,3:55:14 AM
+25,Dozer,Engine Oil Pressure,45,4/5/2022,6:38:30 PM
+25,Asphalt Paver,Water Fuel,416,15/05/2022,12:41:53 AM
+25,Backhoe Loader,Water Fuel,283,20/05/2022,4:53:50 PM
+25,Dozer,Water Fuel,1369,1/6/2022,9:23:40 AM
+25,Excavator,Water Fuel,1643,14/06/2022,8:08:36 AM
+25,Articulated Truck,Water Fuel,112,30/06/2022,10:11:36 PM
+25,Backhoe Loader,System Voltage,14.35,2/5/2022,5:27:26 PM
+25,Dozer,System Voltage,15,3/5/2022,6:45:54 AM
+25,Asphalt Paver,System Voltage,14.79,9/5/2022,10:56:50 AM
+25,Excavator,System Voltage,12.41,9/5/2022,10:36:00 AM
+25,Articulated Truck,System Voltage,14.9,17/06/2022,11:54:14 PM
+26,Asphalt Paver,Pedal Sensor,4.28,18/05/2022,10:49:47 AM
+26,Excavator,Pedal Sensor,3.86,18/05/2022,1:07:07 PM
+26,Backhoe Loader,Pedal Sensor,3.06,2/5/2022,5:23:23 AM
+26,Dozer,Pedal Sensor,3.87,7/6/2022,6:45:02 PM
+26,Articulated Truck,Pedal Sensor,3.9,9/6/2022,2:21:39 AM
+26,Articulated Truck,Engine Temparature,98,13/05/2022,7:45:09 PM
+26,Backhoe Loader,Engine Temparature,75,19/05/2022,1:36:19 PM
+26,Dozer,Engine Temparature,89,6/6/2022,2:45:28 AM
+26,Asphalt Paver,Engine Temparature,75,7/6/2022,7:24:10 PM
+26,Excavator,Engine Temparature,93,7/6/2022,7:41:35 PM
+26,Backhoe Loader,Fuel Level,5,15/05/2022,10:43:29 PM
+26,Excavator,Fuel Level,9,16/06/2022,2:33:51 PM
+26,Asphalt Paver,Fuel Level,10,19/06/2022,9:50:55 PM
+26,Dozer,Fuel Level,2,22/06/2022,9:50:43 PM
+26,Articulated Truck,Fuel Level,5,6/6/2022,9:59:58 PM
+26,Excavator,Exhaust Gas Temparature,345,2/5/2022,4:59:29 AM
+26,Backhoe Loader,Exhaust Gas Temparature,265,29/05/2022,5:21:41 AM
+26,Asphalt Paver,Exhaust Gas Temparature,259,12/6/2022,9:55:48 AM
+26,Dozer,Exhaust Gas Temparature,228,18/06/2022,7:57:25 PM
+26,Articulated Truck,Exhaust Gas Temparature,190,23/06/2022,12:44:20 AM
+27,Backhoe Loader,Brake Control,5,20/05/2022,7:45:15 PM
+27,Asphalt Paver,Brake Control,4,26/05/2022,3:44:42 PM
+27,Dozer,Brake Control,1,9/5/2022,5:13:41 AM
+27,Articulated Truck,Brake Control,8,21/06/2022,5:17:53 PM
+27,Excavator,Brake Control,8,26/06/2022,2:09:12 AM
+27,Dozer,Engine Speed,1310,1/5/2022,3:12:04 AM
+27,Articulated Truck,Engine Speed,1470,26/05/2022,9:27:20 PM
+27,Backhoe Loader,Engine Speed,1341,17/06/2022,8:56:42 PM
+27,Asphalt Paver,Engine Speed,1594,21/06/2022,10:35:44 PM
+27,Excavator,Engine Speed,1683,22/06/2022,7:08:06 AM
+27,Backhoe Loader,Temparature,340,25/05/2022,4:38:41 AM
+27,Excavator,Temparature,355,3/5/2022,10:07:55 PM
+27,Asphalt Paver,Temparature,283,7/5/2022,9:46:35 PM
+27,Dozer,Temparature,382,16/06/2022,11:16:38 AM
+27,Articulated Truck,Temparature,0,9/6/2022,3:48:46 PM
+27,Asphalt Paver,Hydraulic Pump Rate,77,12/5/2022,2:23:43 PM
+27,Backhoe Loader,Hydraulic Pump Rate,82,20/05/2022,4:04:22 PM
+27,Excavator,Hydraulic Pump Rate,85,7/5/2022,4:33:54 PM
+27,Dozer,Hydraulic Pump Rate,85,25/06/2022,2:18:23 AM
+27,Articulated Truck,Hydraulic Pump Rate,119,27/06/2022,2:43:40 PM
+28,Dozer,Brake Control,6,30/05/2022,9:46:13 AM
+28,Backhoe Loader,Brake Control,2,8/5/2022,10:59:39 AM
+28,Excavator,Brake Control,1,19/06/2022,8:29:25 AM
+28,Asphalt Paver,Brake Control,3,7/6/2022,8:55:41 PM
+28,Articulated Truck,Brake Control,3,9/6/2022,5:23:13 AM
+28,Excavator,Engine Oil Pressure,53,13/05/2022,9:16:37 AM
+28,Dozer,Engine Oil Pressure,38,18/05/2022,7:01:02 PM
+28,Backhoe Loader,Engine Oil Pressure,57,12/6/2022,10:46:20 AM
+28,Asphalt Paver,Engine Oil Pressure,61,5/6/2022,3:22:27 AM
+28,Articulated Truck,Engine Oil Pressure,36,7/6/2022,11:31:30 AM
+28,Articulated Truck,Fuel Pressure,59,17/05/2022,8:03:15 AM
+28,Asphalt Paver,Fuel Pressure,58,20/05/2022,5:38:40 AM
+28,Excavator,Fuel Pressure,44,9/5/2022,3:57:35 PM
+28,Dozer,Fuel Pressure,54,1/6/2022,6:40:22 PM
+28,Backhoe Loader,Fuel Pressure,51,29/06/2022,6:59:28 AM
+28,Excavator,Air Filter Pressure,35,19/05/2022,7:47:20 PM
+28,Backhoe Loader,Air Filter Pressure,22,18/06/2022,9:59:13 AM
+28,Asphalt Paver,Air Filter Pressure,23,30/06/2022,1:30:46 AM
+28,Articulated Truck,Air Filter Pressure,33,7/6/2022,12:07:56 PM
+28,Dozer,Air Filter Pressure,26,8/6/2022,9:20:40 AM
+29,Backhoe Loader,Brake Control,8,10/5/2022,5:58:45 AM
+29,Dozer,Brake Control,5,15/05/2022,7:07:10 AM
+29,Asphalt Paver,Brake Control,4,22/05/2022,8:33:09 PM
+29,Articulated Truck,Brake Control,7,29/05/2022,11:47:59 PM
+29,Excavator,Brake Control,1,14/06/2022,7:10:37 PM
+29,Backhoe Loader,Engine Temparature,87,14/05/2022,1:38:51 PM
+29,Asphalt Paver,Engine Temparature,102,18/05/2022,8:25:12 AM
+29,Dozer,Engine Temparature,103,25/05/2022,8:53:21 PM
+29,Excavator,Engine Temparature,87,8/5/2022,10:00:34 PM
+29,Articulated Truck,Engine Temparature,95,23/06/2022,10:50:01 AM
+29,Asphalt Paver,Water Fuel,203,19/05/2022,12:52:43 AM
+29,Excavator,Water Fuel,140,26/05/2022,9:41:34 PM
+29,Articulated Truck,Water Fuel,119,6/5/2022,9:45:34 AM
+29,Backhoe Loader,Water Fuel,1785,20/06/2022,12:34:34 PM
+29,Dozer,Water Fuel,371,27/06/2022,8:22:38 PM
+29,Dozer,System Voltage,13.42,23/05/2022,6:32:35 PM
+29,Asphalt Paver,System Voltage,15.84,30/05/2022,3:48:49 PM
+29,Backhoe Loader,System Voltage,13.71,2/6/2022,1:46:16 AM
+29,Articulated Truck,System Voltage,13.3,22/06/2022,2:04:56 PM
+29,Excavator,System Voltage,14.33,5/6/2022,5:54:26 AM
+30,Articulated Truck,Transmission Pressure,267,22/05/2022,12:35:16 PM
+30,Backhoe Loader,Transmission Pressure,256,11/6/2022,11:19:44 AM
+30,Dozer,Transmission Pressure,271,24/06/2022,6:14:56 AM
+30,Excavator,Transmission Pressure,274,24/06/2022,3:39:38 PM
+30,Asphalt Paver,Transmission Pressure,270,9/6/2022,9:12:25 PM
+30,Backhoe Loader,Engine Speed,1435,12/5/2022,11:43:31 PM
+30,Asphalt Paver,Engine Speed,1661,21/05/2022,7:03:32 PM
+30,Articulated Truck,Engine Speed,1250,29/05/2022,2:53:16 AM
+30,Dozer,Engine Speed,1654,10/6/2022,12:01:20 AM
+30,Excavator,Engine Speed,1455,24/06/2022,6:17:06 AM
+30,Backhoe Loader,Fuel Level,6,11/5/2022,7:09:41 PM
+30,Excavator,Fuel Level,3,29/05/2022,8:14:17 PM
+30,Asphalt Paver,Fuel Level,9,30/05/2022,11:43:49 AM
+30,Dozer,Fuel Level,8,13/06/2022,6:05:02 AM
+30,Articulated Truck,Fuel Level,4,4/6/2022,10:21:26 PM
+30,Dozer,Exhaust Gas Temparature,353,13/05/2022,8:52:53 AM
+30,Asphalt Paver,Exhaust Gas Temparature,282,16/05/2022,9:10:19 AM
+30,Backhoe Loader,Exhaust Gas Temparature,198,11/6/2022,9:31:15 PM
+30,Articulated Truck,Exhaust Gas Temparature,180,22/06/2022,11:36:06 PM
+30,Excavator,Exhaust Gas Temparature,310,28/06/2022,7:21:28 AM
+31,Excavator,Pedal Sensor,4.68,17/05/2022,4:05:58 AM
+31,Backhoe Loader,Pedal Sensor,4.56,5/5/2022,11:19:11 PM
+31,Dozer,Pedal Sensor,4.1,12/6/2022,5:07:49 AM
+31,Articulated Truck,Pedal Sensor,3.7,13/06/2022,7:53:39 PM
+31,Asphalt Paver,Pedal Sensor,3.81,15/06/2022,10:35:30 AM
+31,Asphalt Paver,Engine Oil Pressure,40,19/05/2022,1:27:01 AM
+31,Articulated Truck,Engine Oil Pressure,25,30/05/2022,9:58:48 PM
+31,Backhoe Loader,Engine Oil Pressure,65,12/6/2022,1:05:50 PM
+31,Excavator,Engine Oil Pressure,29,13/06/2022,1:46:42 PM
+31,Dozer,Engine Oil Pressure,50,18/06/2022,12:33:03 PM
+31,Asphalt Paver,Water Fuel,924,11/5/2022,3:15:28 AM
+31,Backhoe Loader,Water Fuel,393,16/05/2022,11:49:29 PM
+31,Articulated Truck,Water Fuel,120,12/6/2022,4:21:12 AM
+31,Excavator,Water Fuel,413,14/06/2022,9:59:05 PM
+31,Dozer,Water Fuel,1337,6/6/2022,7:21:21 PM
+31,Backhoe Loader,Hydraulic Pump Rate,82,11/5/2022,11:08:12 AM
+31,Excavator,Hydraulic Pump Rate,102,24/05/2022,9:35:36 AM
+31,Dozer,Hydraulic Pump Rate,94,4/5/2022,1:41:06 AM
+31,Asphalt Paver,Hydraulic Pump Rate,117,7/5/2022,1:53:17 PM
+31,Articulated Truck,Hydraulic Pump Rate,118,21/06/2022,2:37:28 PM
+32,Backhoe Loader,Transmission Pressure,377,18/05/2022,7:43:11 AM
+32,Articulated Truck,Transmission Pressure,450,14/06/2022,5:23:07 PM
+32,Excavator,Transmission Pressure,397,20/06/2022,5:53:54 AM
+32,Dozer,Transmission Pressure,328,7/6/2022,4:00:01 AM
+32,Asphalt Paver,Transmission Pressure,206,9/6/2022,9:30:08 PM
+32,Dozer,Engine Speed,1558,11/5/2022,6:13:36 AM
+32,Backhoe Loader,Engine Speed,1475,18/05/2022,12:34:35 AM
+32,Excavator,Engine Speed,1541,7/5/2022,12:11:56 AM
+32,Asphalt Paver,Engine Speed,1726,3/6/2022,6:55:49 PM
+32,Articulated Truck,Engine Speed,1550,4/6/2022,6:36:55 AM
+32,Dozer,Fuel Level,7,10/5/2022,2:37:32 PM
+32,Excavator,Fuel Level,9,13/05/2022,4:58:29 AM
+32,Asphalt Paver,Fuel Level,2,19/06/2022,2:44:46 AM
+32,Articulated Truck,Fuel Level,4,30/06/2022,11:08:46 AM
+32,Backhoe Loader,Fuel Level,5,8/6/2022,8:29:18 AM
+32,Backhoe Loader,Air Filter Pressure,25,14/05/2022,11:13:53 PM
+32,Asphalt Paver,Air Filter Pressure,33,24/05/2022,7:52:12 PM
+32,Articulated Truck,Air Filter Pressure,35,28/05/2022,10:16:16 AM
+32,Dozer,Air Filter Pressure,31,14/06/2022,11:44:57 AM
+32,Excavator,Air Filter Pressure,34,16/06/2022,7:53:48 PM
+33,Articulated Truck,Pedal Sensor,4.4,10/5/2022,10:06:47 AM
+33,Excavator,Pedal Sensor,4.33,10/5/2022,3:44:15 PM
+33,Backhoe Loader,Pedal Sensor,4.76,20/05/2022,2:50:20 AM
+33,Asphalt Paver,Pedal Sensor,3.59,10/6/2022,4:51:26 PM
+33,Dozer,Pedal Sensor,4.46,7/6/2022,12:29:39 PM
+33,Dozer,Engine Oil Pressure,62,1/5/2022,4:00:38 AM
+33,Backhoe Loader,Engine Oil Pressure,61,19/05/2022,4:09:22 PM
+33,Excavator,Engine Oil Pressure,36,20/05/2022,3:07:22 PM
+33,Asphalt Paver,Engine Oil Pressure,58,29/05/2022,7:35:09 AM
+33,Articulated Truck,Engine Oil Pressure,35,9/6/2022,12:16:29 AM
+33,Excavator,Temparature,352,13/05/2022,5:53:12 AM
+33,Articulated Truck,Temparature,0,16/05/2022,2:16:40 AM
+33,Dozer,Temparature,212,26/05/2022,1:00:34 AM
+33,Backhoe Loader,Temparature,302,17/06/2022,5:43:46 PM
+33,Asphalt Paver,Temparature,398,18/06/2022,3:03:42 AM
+33,Dozer,System Voltage,15.01,14/05/2022,9:43:59 AM
+33,Backhoe Loader,System Voltage,15.05,21/05/2022,12:11:51 AM
+33,Asphalt Paver,System Voltage,14.31,27/05/2022,6:28:30 AM
+33,Articulated Truck,System Voltage,15.1,18/06/2022,12:26:52 PM
+33,Excavator,System Voltage,12.43,22/06/2022,6:01:52 AM
+34,Dozer,Transmission Pressure,249,13/05/2022,8:51:45 PM
+34,Articulated Truck,Transmission Pressure,447,16/06/2022,1:32:34 AM
+34,Backhoe Loader,Transmission Pressure,433,21/06/2022,4:35:53 AM
+34,Asphalt Paver,Transmission Pressure,387,23/06/2022,2:37:45 PM
+34,Excavator,Transmission Pressure,203,27/06/2022,4:19:39 AM
+34,Articulated Truck,Engine Speed,1650,1/6/2022,11:11:36 PM
+34,Backhoe Loader,Engine Speed,1434,10/6/2022,11:04:57 PM
+34,Asphalt Paver,Engine Speed,1709,12/6/2022,7:25:32 PM
+34,Excavator,Engine Speed,1419,29/06/2022,7:20:54 AM
+34,Dozer,Engine Speed,1385,3/6/2022,2:57:08 AM
+34,Articulated Truck,Fuel Pressure,71,13/05/2022,7:29:59 AM
+34,Excavator,Fuel Pressure,52,7/5/2022,9:54:12 AM
+34,Dozer,Fuel Pressure,43,10/6/2022,3:56:00 AM
+34,Asphalt Paver,Fuel Pressure,65,18/06/2022,3:42:14 AM
+34,Backhoe Loader,Fuel Pressure,59,23/06/2022,8:40:56 PM
+34,Asphalt Paver,Exhaust Gas Temparature,200,15/05/2022,2:17:51 AM
+34,Articulated Truck,Exhaust Gas Temparature,177,27/05/2022,8:00:46 PM
+34,Backhoe Loader,Exhaust Gas Temparature,293,4/5/2022,3:01:14 PM
+34,Excavator,Exhaust Gas Temparature,195,6/5/2022,7:46:07 PM
+34,Dozer,Exhaust Gas Temparature,347,10/6/2022,12:30:24 PM
+35,Backhoe Loader,Pedal Sensor,4.99,21/05/2022,9:27:46 AM
+35,Articulated Truck,Pedal Sensor,3.6,25/05/2022,10:00:04 AM
+35,Dozer,Pedal Sensor,3.65,12/6/2022,9:01:03 AM
+35,Excavator,Pedal Sensor,4.83,21/06/2022,1:10:10 PM
+35,Asphalt Paver,Pedal Sensor,4.36,3/6/2022,4:38:54 PM
+35,Asphalt Paver,Engine Temparature,87,12/5/2022,8:53:18 PM
+35,Dozer,Engine Temparature,85,13/05/2022,5:51:14 AM
+35,Backhoe Loader,Engine Temparature,94,18/05/2022,5:49:35 AM
+35,Excavator,Engine Temparature,79,27/05/2022,1:21:34 PM
+35,Articulated Truck,Engine Temparature,94,30/05/2022,3:59:33 AM
+35,Asphalt Paver,Water Fuel,97,14/05/2022,11:22:16 AM
+35,Excavator,Water Fuel,1647,24/05/2022,4:19:43 PM
+35,Dozer,Water Fuel,1737,4/5/2022,11:37:30 PM
+35,Backhoe Loader,Water Fuel,1325,3/6/2022,7:30:59 PM
+35,Articulated Truck,Water Fuel,144,6/6/2022,11:23:40 AM
+35,Asphalt Paver,Hydraulic Pump Rate,110,23/05/2022,12:19:18 PM
+35,Backhoe Loader,Hydraulic Pump Rate,76,24/05/2022,8:26:17 PM
+35,Dozer,Hydraulic Pump Rate,108,27/05/2022,10:00:52 PM
+35,Excavator,Hydraulic Pump Rate,120,3/5/2022,5:36:01 PM
+35,Articulated Truck,Hydraulic Pump Rate,117,9/5/2022,3:24:39 AM
+36,Dozer,Brake Control,10,16/05/2022,5:11:50 PM
+36,Excavator,Brake Control,9,26/05/2022,3:39:25 AM
+36,Asphalt Paver,Brake Control,2,25/06/2022,8:39:34 AM
+36,Articulated Truck,Brake Control,2,26/06/2022,4:53:04 AM
+36,Backhoe Loader,Brake Control,4,30/06/2022,5:14:36 AM
+36,Articulated Truck,Engine Oil Pressure,45,10/5/2022,12:45:46 PM
+36,Backhoe Loader,Engine Oil Pressure,48,6/5/2022,7:00:57 AM
+36,Dozer,Engine Oil Pressure,52,11/6/2022,2:51:43 AM
+36,Asphalt Paver,Engine Oil Pressure,34,21/06/2022,1:23:54 AM
+36,Excavator,Engine Oil Pressure,39,27/06/2022,4:29:04 PM
+36,Excavator,Fuel Level,7,15/05/2022,3:22:18 PM
+36,Asphalt Paver,Fuel Level,2,16/05/2022,2:56:43 AM
+36,Backhoe Loader,Fuel Level,5,9/5/2022,5:38:12 AM
+36,Articulated Truck,Fuel Level,3,16/06/2022,10:52:41 AM
+36,Dozer,Fuel Level,2,7/6/2022,10:24:30 AM
+36,Articulated Truck,Air Filter Pressure,32,13/05/2022,11:20:36 AM
+36,Dozer,Air Filter Pressure,26,15/05/2022,2:06:56 PM
+36,Backhoe Loader,Air Filter Pressure,27,19/06/2022,1:23:43 PM
+36,Excavator,Air Filter Pressure,29,22/06/2022,8:24:00 PM
+36,Asphalt Paver,Air Filter Pressure,20,29/06/2022,6:03:59 AM
+37,Excavator,Brake Control,9,18/05/2022,2:22:03 PM
+37,Dozer,Brake Control,7,23/05/2022,3:59:17 PM
+37,Asphalt Paver,Brake Control,5,24/06/2022,2:18:18 PM
+37,Backhoe Loader,Brake Control,4,3/6/2022,3:33:09 AM
+37,Articulated Truck,Brake Control,8,8/6/2022,10:58:57 AM
+37,Articulated Truck,Engine Temparature,92,20/05/2022,6:34:35 PM
+37,Asphalt Paver,Engine Temparature,101,26/05/2022,7:16:18 PM
+37,Backhoe Loader,Engine Temparature,75,1/6/2022,4:12:42 PM
+37,Dozer,Engine Temparature,89,15/06/2022,12:53:57 AM
+37,Excavator,Engine Temparature,92,23/06/2022,5:33:32 AM
+37,Asphalt Paver,Temparature,279,14/05/2022,3:59:15 PM
+37,Dozer,Temparature,253,21/05/2022,2:46:03 PM
+37,Excavator,Temparature,348,8/5/2022,6:20:43 PM
+37,Backhoe Loader,Temparature,202,25/06/2022,3:39:58 PM
+37,Articulated Truck,Temparature,0,27/06/2022,12:30:42 AM
+37,Asphalt Paver,System Voltage,13.98,5/5/2022,1:08:09 PM
+37,Excavator,System Voltage,15.53,16/06/2022,3:27:30 PM
+37,Backhoe Loader,System Voltage,12.52,19/06/2022,12:40:03 PM
+37,Dozer,System Voltage,12.54,28/06/2022,6:23:11 PM
+37,Articulated Truck,System Voltage,13.7,5/6/2022,4:17:27 AM
+38,Dozer,Brake Control,5,25/05/2022,9:05:43 PM
+38,Asphalt Paver,Brake Control,10,28/05/2022,11:24:20 PM
+38,Backhoe Loader,Brake Control,6,6/5/2022,8:06:35 PM
+38,Articulated Truck,Brake Control,4,9/5/2022,6:52:55 PM
+38,Excavator,Brake Control,5,8/6/2022,5:46:59 PM
+38,Asphalt Paver,Engine Speed,1421,15/05/2022,4:00:42 PM
+38,Excavator,Engine Speed,1443,17/05/2022,3:25:35 PM
+38,Dozer,Engine Speed,1724,18/05/2022,6:36:54 PM
+38,Articulated Truck,Engine Speed,1870,9/5/2022,4:20:54 AM
+38,Backhoe Loader,Engine Speed,1585,5/6/2022,2:13:44 PM
+38,Backhoe Loader,Fuel Pressure,56,12/5/2022,5:24:54 AM
+38,Asphalt Paver,Fuel Pressure,45,20/05/2022,9:56:18 AM
+38,Articulated Truck,Fuel Pressure,72,25/05/2022,11:32:37 AM
+38,Dozer,Fuel Pressure,55,1/6/2022,7:11:20 AM
+38,Excavator,Fuel Pressure,53,2/6/2022,10:25:23 PM
+38,Articulated Truck,Exhaust Gas Temparature,181,11/6/2022,4:31:02 AM
+38,Dozer,Exhaust Gas Temparature,309,15/06/2022,3:59:22 AM
+38,Backhoe Loader,Exhaust Gas Temparature,211,26/06/2022,1:54:57 PM
+38,Asphalt Paver,Exhaust Gas Temparature,237,27/06/2022,8:23:27 AM
+38,Excavator,Exhaust Gas Temparature,348,3/6/2022,2:43:07 PM
+39,Excavator,Pedal Sensor,4.53,13/05/2022,3:23:02 AM
+39,Dozer,Pedal Sensor,4.69,18/05/2022,1:10:48 PM
+39,Articulated Truck,Pedal Sensor,3.8,20/05/2022,10:52:31 PM
+39,Backhoe Loader,Pedal Sensor,4.36,23/05/2022,8:13:07 PM
+39,Asphalt Paver,Pedal Sensor,4.63,28/05/2022,2:03:12 AM
+39,Dozer,Engine Oil Pressure,33,21/05/2022,9:11:15 AM
+39,Excavator,Engine Oil Pressure,41,3/5/2022,2:03:10 PM
+39,Backhoe Loader,Engine Oil Pressure,49,5/5/2022,8:47:28 PM
+39,Articulated Truck,Engine Oil Pressure,46,9/5/2022,8:23:43 AM
+39,Asphalt Paver,Engine Oil Pressure,50,9/6/2022,12:41:43 PM
+39,Articulated Truck,Water Fuel,184,18/05/2022,8:38:30 PM
+39,Asphalt Paver,Water Fuel,708,25/05/2022,8:04:41 PM
+39,Excavator,Water Fuel,461,16/06/2022,2:41:34 AM
+39,Backhoe Loader,Water Fuel,1342,4/6/2022,8:30:15 PM
+39,Dozer,Water Fuel,348,4/6/2022,2:56:03 AM
+39,Dozer,Hydraulic Pump Rate,87,1/6/2022,6:07:39 AM
+39,Asphalt Paver,Hydraulic Pump Rate,124,11/6/2022,2:48:32 AM
+39,Excavator,Hydraulic Pump Rate,112,12/6/2022,9:50:01 AM
+39,Backhoe Loader,Hydraulic Pump Rate,90,13/06/2022,10:51:05 AM
+39,Articulated Truck,Hydraulic Pump Rate,116,2/6/2022,5:50:45 AM
+40,Dozer,Transmission Pressure,291,1/5/2022,12:19:55 AM
+40,Asphalt Paver,Transmission Pressure,384,17/05/2022,5:00:20 AM
+40,Articulated Truck,Transmission Pressure,443,22/05/2022,10:03:36 AM
+40,Backhoe Loader,Transmission Pressure,349,22/05/2022,1:59:28 PM
+40,Excavator,Transmission Pressure,354,21/06/2022,3:03:40 AM
+40,Excavator,Engine Temparature,75,12/5/2022,7:55:15 AM
+40,Articulated Truck,Engine Temparature,100,18/05/2022,8:27:16 PM
+40,Dozer,Engine Temparature,89,13/06/2022,7:48:07 PM
+40,Asphalt Paver,Engine Temparature,81,28/06/2022,11:32:23 PM
+40,Backhoe Loader,Engine Temparature,93,9/6/2022,4:33:46 PM
+40,Dozer,Fuel Level,7,12/5/2022,4:25:45 PM
+40,Asphalt Paver,Fuel Level,2,18/05/2022,3:29:27 PM
+40,Articulated Truck,Fuel Level,7,19/05/2022,11:24:02 PM
+40,Backhoe Loader,Fuel Level,6,21/05/2022,2:34:35 PM
+40,Excavator,Fuel Level,6,28/06/2022,6:33:06 PM
+40,Excavator,Air Filter Pressure,20,11/5/2022,2:11:38 PM
+40,Articulated Truck,Air Filter Pressure,36,12/5/2022,4:55:54 AM
+40,Dozer,Air Filter Pressure,31,14/06/2022,6:31:14 PM
+40,Asphalt Paver,Air Filter Pressure,23,15/06/2022,11:56:13 PM
+40,Backhoe Loader,Air Filter Pressure,23,15/06/2022,5:27:20 PM
+41,Backhoe Loader,Transmission Pressure,289,15/05/2022,10:38:00 AM
+41,Excavator,Transmission Pressure,274,27/05/2022,11:52:49 PM
+41,Dozer,Transmission Pressure,264,5/5/2022,12:26:58 AM
+41,Asphalt Paver,Transmission Pressure,226,12/6/2022,12:53:07 PM
+41,Articulated Truck,Transmission Pressure,377,23/06/2022,2:41:50 AM
+41,Excavator,Engine Speed,1515,20/05/2022,1:01:55 AM
+41,Asphalt Paver,Engine Speed,1597,30/05/2022,3:40:00 PM
+41,Articulated Truck,Engine Speed,1700,5/5/2022,9:59:11 AM
+41,Backhoe Loader,Engine Speed,1687,6/5/2022,7:11:28 AM
+41,Dozer,Engine Speed,1771,13/06/2022,1:11:33 PM
+41,Dozer,Fuel Level,5,10/5/2022,4:13:09 AM
+41,Articulated Truck,Fuel Level,6,21/05/2022,7:51:54 PM
+41,Asphalt Paver,Fuel Level,6,26/05/2022,1:40:33 PM
+41,Backhoe Loader,Fuel Level,4,19/06/2022,3:27:54 AM
+41,Excavator,Fuel Level,3,6/6/2022,1:10:26 PM
+41,Backhoe Loader,System Voltage,13.63,23/05/2022,11:09:49 AM
+41,Dozer,System Voltage,13.41,26/05/2022,8:54:24 AM
+41,Excavator,System Voltage,15.15,6/5/2022,1:09:58 AM
+41,Articulated Truck,System Voltage,15.2,21/06/2022,9:28:21 AM
+41,Asphalt Paver,System Voltage,14.99,23/06/2022,7:34:08 PM
+42,Articulated Truck,Pedal Sensor,3.9,16/06/2022,10:11:02 PM
+42,Asphalt Paver,Pedal Sensor,3.83,19/06/2022,8:19:37 PM
+42,Backhoe Loader,Pedal Sensor,3.8,23/06/2022,4:26:14 PM
+42,Dozer,Pedal Sensor,3.52,25/06/2022,1:50:35 AM
+42,Excavator,Pedal Sensor,4.77,30/06/2022,3:23:08 AM
+42,Asphalt Paver,Engine Oil Pressure,59,18/05/2022,4:10:47 AM
+42,Dozer,Engine Oil Pressure,39,29/05/2022,1:20:19 AM
+42,Backhoe Loader,Engine Oil Pressure,38,13/06/2022,6:49:21 PM
+42,Articulated Truck,Engine Oil Pressure,36,19/06/2022,8:39:27 AM
+42,Excavator,Engine Oil Pressure,39,28/06/2022,4:06:30 AM
+42,Asphalt Paver,Water Fuel,980,22/05/2022,3:55:01 AM
+42,Backhoe Loader,Water Fuel,495,27/05/2022,6:23:38 PM
+42,Articulated Truck,Water Fuel,424,30/05/2022,10:48:15 AM
+42,Dozer,Water Fuel,1179,9/5/2022,9:11:26 AM
+42,Excavator,Water Fuel,1047,17/06/2022,10:02:34 PM
+42,Backhoe Loader,Exhaust Gas Temparature,216,4/5/2022,12:31:11 AM
+42,Dozer,Exhaust Gas Temparature,366,6/5/2022,11:38:54 PM
+42,Articulated Truck,Exhaust Gas Temparature,176,19/06/2022,3:02:05 AM
+42,Asphalt Paver,Exhaust Gas Temparature,341,2/6/2022,10:17:26 PM
+42,Excavator,Exhaust Gas Temparature,312,27/06/2022,3:29:55 AM
+43,Excavator,Transmission Pressure,275,20/05/2022,3:01:58 PM
+43,Dozer,Transmission Pressure,348,27/05/2022,11:04:57 PM
+43,Articulated Truck,Transmission Pressure,300,29/05/2022,10:08:51 AM
+43,Asphalt Paver,Transmission Pressure,293,12/6/2022,7:56:30 PM
+43,Backhoe Loader,Transmission Pressure,210,20/06/2022,8:27:46 PM
+43,Asphalt Paver,Engine Speed,1736,18/05/2022,6:53:17 PM
+43,Articulated Truck,Engine Speed,1590,22/05/2022,11:05:17 AM
+43,Dozer,Engine Speed,1488,16/06/2022,9:30:41 PM
+43,Excavator,Engine Speed,1648,22/06/2022,4:26:33 AM
+43,Backhoe Loader,Engine Speed,1434,24/06/2022,5:24:43 PM
+43,Dozer,Fuel Level,2,27/05/2022,6:46:04 PM
+43,Excavator,Fuel Level,9,7/5/2022,1:46:19 AM
+43,Articulated Truck,Fuel Level,4,20/06/2022,5:33:12 PM
+43,Backhoe Loader,Fuel Level,5,28/06/2022,6:57:48 AM
+43,Asphalt Paver,Fuel Level,7,29/06/2022,10:22:23 PM
+43,Excavator,Hydraulic Pump Rate,117,2/5/2022,2:23:32 AM
+43,Dozer,Hydraulic Pump Rate,79,9/5/2022,8:57:26 PM
+43,Backhoe Loader,Hydraulic Pump Rate,82,2/6/2022,8:59:33 AM
+43,Asphalt Paver,Hydraulic Pump Rate,100,4/6/2022,8:01:02 AM
+43,Articulated Truck,Hydraulic Pump Rate,106,8/6/2022,5:13:22 PM
+44,Dozer,Pedal Sensor,4.24,1/5/2022,3:13:41 PM
+44,Excavator,Pedal Sensor,4.58,17/05/2022,11:32:45 PM
+44,Articulated Truck,Pedal Sensor,4.6,20/05/2022,8:34:29 AM
+44,Asphalt Paver,Pedal Sensor,4.61,26/06/2022,12:38:58 AM
+44,Backhoe Loader,Pedal Sensor,3.06,7/6/2022,8:54:38 PM
+44,Articulated Truck,Engine Oil Pressure,44,15/05/2022,6:00:32 PM
+44,Excavator,Engine Oil Pressure,58,23/05/2022,12:22:18 AM
+44,Asphalt Paver,Engine Oil Pressure,59,5/5/2022,4:17:46 PM
+44,Dozer,Engine Oil Pressure,41,18/06/2022,5:32:08 AM
+44,Backhoe Loader,Engine Oil Pressure,36,30/06/2022,10:32:17 PM
+44,Excavator,Temparature,260,21/05/2022,4:46:11 PM
+44,Dozer,Temparature,215,15/06/2022,5:30:33 PM
+44,Backhoe Loader,Temparature,329,17/06/2022,8:14:08 AM
+44,Articulated Truck,Temparature,0,22/06/2022,7:24:57 PM
+44,Asphalt Paver,Temparature,383,28/06/2022,7:42:26 AM
+44,Articulated Truck,Air Filter Pressure,31,4/5/2022,3:09:21 AM
+44,Backhoe Loader,Air Filter Pressure,29,5/5/2022,9:52:26 AM
+44,Excavator,Air Filter Pressure,31,16/06/2022,4:04:33 AM
+44,Asphalt Paver,Air Filter Pressure,22,26/06/2022,8:55:15 PM
+44,Dozer,Air Filter Pressure,26,9/6/2022,8:11:44 PM
+45,Backhoe Loader,Transmission Pressure,412,19/05/2022,2:10:45 AM
+45,Dozer,Transmission Pressure,302,2/5/2022,11:25:12 AM
+45,Articulated Truck,Transmission Pressure,369,26/06/2022,5:57:26 AM
+45,Asphalt Paver,Transmission Pressure,303,26/06/2022,7:06:30 PM
+45,Excavator,Transmission Pressure,323,3/6/2022,5:06:52 AM
+45,Excavator,Engine Speed,1779,11/5/2022,1:16:32 PM
+45,Asphalt Paver,Engine Speed,1362,6/5/2022,7:04:08 PM
+45,Articulated Truck,Engine Speed,1440,11/6/2022,6:26:08 AM
+45,Dozer,Engine Speed,1445,29/06/2022,4:47:07 PM
+45,Backhoe Loader,Engine Speed,1398,7/6/2022,7:16:44 PM
+45,Excavator,Fuel Pressure,37,13/05/2022,11:56:07 PM
+45,Backhoe Loader,Fuel Pressure,44,25/05/2022,9:44:21 AM
+45,Asphalt Paver,Fuel Pressure,58,26/05/2022,5:03:08 AM
+45,Articulated Truck,Fuel Pressure,44,5/5/2022,4:52:00 AM
+45,Dozer,Fuel Pressure,37,5/6/2022,11:11:32 AM
+45,Dozer,System Voltage,12.25,17/05/2022,4:51:58 AM
+45,Asphalt Paver,System Voltage,14.84,24/05/2022,6:23:15 PM
+45,Articulated Truck,System Voltage,14.9,8/5/2022,5:33:36 AM
+45,Excavator,System Voltage,13.28,12/6/2022,1:22:15 PM
+45,Backhoe Loader,System Voltage,14.78,21/06/2022,4:34:04 PM
+46,Asphalt Paver,Pedal Sensor,3.68,19/05/2022,6:08:46 PM
+46,Dozer,Pedal Sensor,4.98,28/05/2022,12:10:01 PM
+46,Excavator,Pedal Sensor,4.88,8/5/2022,11:26:43 AM
+46,Backhoe Loader,Pedal Sensor,4.93,17/06/2022,1:33:21 PM
+46,Articulated Truck,Pedal Sensor,3.2,24/06/2022,6:48:40 PM
+46,Excavator,Engine Temparature,80,12/5/2022,10:21:07 AM
+46,Asphalt Paver,Engine Temparature,77,24/05/2022,1:24:28 AM
+46,Articulated Truck,Engine Temparature,102,11/6/2022,7:02:43 PM
+46,Backhoe Loader,Engine Temparature,86,19/06/2022,7:04:47 PM
+46,Dozer,Engine Temparature,89,30/06/2022,3:37:30 AM
+46,Articulated Truck,Water Fuel,426,21/05/2022,3:29:19 AM
+46,Asphalt Paver,Water Fuel,826,8/5/2022,12:10:29 AM
+46,Backhoe Loader,Water Fuel,398,11/6/2022,9:31:45 AM
+46,Dozer,Water Fuel,1031,18/06/2022,5:38:32 PM
+46,Excavator,Water Fuel,1072,24/06/2022,7:36:27 PM
+46,Backhoe Loader,Exhaust Gas Temparature,297,1/5/2022,6:33:20 AM
+46,Excavator,Exhaust Gas Temparature,270,19/05/2022,11:03:11 PM
+46,Dozer,Exhaust Gas Temparature,291,3/5/2022,10:05:15 PM
+46,Articulated Truck,Exhaust Gas Temparature,182,11/6/2022,3:09:49 AM
+46,Asphalt Paver,Exhaust Gas Temparature,295,22/06/2022,11:27:27 AM
+47,Dozer,Brake Control,3,24/05/2022,5:15:47 AM
+47,Articulated Truck,Brake Control,2,30/05/2022,9:02:29 AM
+47,Asphalt Paver,Brake Control,2,8/5/2022,11:07:47 AM
+47,Excavator,Brake Control,3,14/06/2022,7:44:22 PM
+47,Backhoe Loader,Brake Control,8,26/06/2022,10:29:44 AM
+47,Dozer,Engine Oil Pressure,26,25/05/2022,10:28:22 AM
+47,Asphalt Paver,Engine Oil Pressure,35,2/6/2022,6:16:49 PM
+47,Articulated Truck,Engine Oil Pressure,56,22/06/2022,4:47:09 AM
+47,Backhoe Loader,Engine Oil Pressure,26,3/6/2022,12:49:50 AM
+47,Excavator,Engine Oil Pressure,40,7/6/2022,9:31:59 AM
+47,Excavator,Fuel Level,2,24/05/2022,1:39:39 PM
+47,Asphalt Paver,Fuel Level,4,11/6/2022,10:41:40 PM
+47,Dozer,Fuel Level,3,17/06/2022,8:57:18 PM
+47,Articulated Truck,Fuel Level,3,26/06/2022,11:13:01 AM
+47,Backhoe Loader,Fuel Level,6,9/6/2022,12:25:35 AM
+47,Asphalt Paver,Hydraulic Pump Rate,117,10/5/2022,8:19:51 AM
+47,Articulated Truck,Hydraulic Pump Rate,109,28/05/2022,8:46:27 PM
+47,Dozer,Hydraulic Pump Rate,119,14/06/2022,4:29:38 AM
+47,Excavator,Hydraulic Pump Rate,125,20/06/2022,10:39:17 AM
+47,Backhoe Loader,Hydraulic Pump Rate,91,8/6/2022,12:46:47 AM
+48,Backhoe Loader,Brake Control,5,10/5/2022,7:49:35 PM
+48,Articulated Truck,Brake Control,8,13/05/2022,5:10:04 AM
+48,Asphalt Paver,Brake Control,3,25/05/2022,5:57:14 AM
+48,Dozer,Brake Control,5,2/6/2022,9:45:34 PM
+48,Excavator,Brake Control,4,9/6/2022,7:18:36 AM
+48,Asphalt Paver,Engine Temparature,77,10/6/2022,6:17:22 PM
+48,Articulated Truck,Engine Temparature,82,14/06/2022,10:10:26 AM
+48,Dozer,Engine Temparature,104,25/06/2022,4:29:17 PM
+48,Backhoe Loader,Engine Temparature,90,29/06/2022,11:42:04 PM
+48,Excavator,Engine Temparature,104,3/6/2022,8:09:29 AM
+48,Asphalt Paver,Temparature,372,5/5/2022,9:41:17 AM
+48,Articulated Truck,Temparature,0,6/5/2022,6:11:27 PM
+48,Backhoe Loader,Temparature,316,21/06/2022,8:14:33 AM
+48,Dozer,Temparature,308,22/06/2022,6:00:32 AM
+48,Excavator,Temparature,297,25/06/2022,12:04:22 PM
+48,Asphalt Paver,Air Filter Pressure,22,10/5/2022,9:24:56 AM
+48,Dozer,Air Filter Pressure,26,12/5/2022,1:56:34 AM
+48,Excavator,Air Filter Pressure,35,28/05/2022,6:04:34 PM
+48,Articulated Truck,Air Filter Pressure,35,1/6/2022,5:07:12 AM
+48,Backhoe Loader,Air Filter Pressure,34,21/06/2022,4:13:43 AM
+49,Backhoe Loader,Brake Control,3,11/5/2022,9:15:07 PM
+49,Dozer,Brake Control,5,26/05/2022,10:26:09 AM
+49,Articulated Truck,Brake Control,4,27/05/2022,2:12:14 AM
+49,Excavator,Brake Control,7,2/6/2022,2:02:04 AM
+49,Asphalt Paver,Brake Control,5,9/6/2022,3:43:29 AM
+49,Excavator,Engine Speed,1377,22/05/2022,4:32:08 PM
+49,Articulated Truck,Engine Speed,1560,3/5/2022,10:13:39 AM
+49,Asphalt Paver,Engine Speed,1484,16/06/2022,9:04:14 AM
+49,Dozer,Engine Speed,1530,28/06/2022,3:45:01 PM
+49,Backhoe Loader,Engine Speed,1394,6/6/2022,3:31:31 PM
+49,Articulated Truck,Fuel Pressure,49,3/5/2022,11:34:13 AM
+49,Dozer,Fuel Pressure,58,7/5/2022,3:48:31 AM
+49,Excavator,Fuel Pressure,45,19/06/2022,3:31:30 PM
+49,Backhoe Loader,Fuel Pressure,56,2/6/2022,7:26:20 PM
+49,Asphalt Paver,Fuel Pressure,61,24/06/2022,12:03:28 PM
+49,Articulated Truck,System Voltage,14.8,23/05/2022,2:47:05 AM
+49,Excavator,System Voltage,13.21,2/6/2022,6:33:33 PM
+49,Dozer,System Voltage,14.28,21/06/2022,12:15:41 PM
+49,Backhoe Loader,System Voltage,14.71,5/6/2022,12:35:22 PM
+49,Asphalt Paver,System Voltage,12.92,8/6/2022,4:56:06 AM
+50,Articulated Truck,Transmission Pressure,391,12/5/2022,7:31:46 PM
+50,Excavator,Transmission Pressure,363,21/05/2022,4:36:24 PM
+50,Dozer,Transmission Pressure,444,24/05/2022,1:05:02 PM
+50,Backhoe Loader,Transmission Pressure,377,17/06/2022,9:01:50 AM
+50,Asphalt Paver,Transmission Pressure,232,25/06/2022,3:32:12 AM
+50,Articulated Truck,Engine Oil Pressure,65,24/05/2022,6:15:41 AM
+50,Excavator,Engine Oil Pressure,43,5/5/2022,4:57:01 PM
+50,Backhoe Loader,Engine Oil Pressure,51,8/5/2022,11:35:46 PM
+50,Asphalt Paver,Engine Oil Pressure,51,10/6/2022,8:50:57 PM
+50,Dozer,Engine Oil Pressure,64,21/06/2022,1:02:07 PM
+50,Excavator,Water Fuel,1439,13/05/2022,12:03:58 AM
+50,Backhoe Loader,Water Fuel,1400,23/05/2022,4:38:57 AM
+50,Asphalt Paver,Water Fuel,622,27/05/2022,10:23:38 PM
+50,Articulated Truck,Water Fuel,448,7/5/2022,9:21:33 PM
+50,Dozer,Water Fuel,1368,26/06/2022,11:10:48 AM
+50,Asphalt Paver,Exhaust Gas Temparature,221,16/05/2022,12:54:52 AM
+50,Articulated Truck,Exhaust Gas Temparature,176,23/05/2022,10:33:40 AM
+50,Excavator,Exhaust Gas Temparature,262,9/5/2022,3:25:11 AM
+50,Dozer,Exhaust Gas Temparature,300,6/6/2022,1:37:24 PM
+50,Backhoe Loader,Exhaust Gas Temparature,199,7/6/2022,9:20:30 AM

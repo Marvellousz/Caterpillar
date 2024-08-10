@@ -1,0 +1,15 @@
+Parameter,Low_Threshold,High_Threshold,Probability_of_Failure
+Engine Oil Pressure,25,65,High
+Engine Speed,0,1800,Medium
+Engine Temperature,0,105,High
+Brake Control,1,inf,Medium
+Transmission Pressure,200,450,Medium
+Pedal Sensor,0,4.7,Low
+Water Fuel,0,1800,High
+Fuel Level,1,inf,Low
+Fuel Pressure,35,65,Low
+Fuel Temperature,0,400,High
+System Voltage,12,15,High
+Exhaust Gas Temperature,0,365,High
+Hydraulic Pump Rate,0,125,Medium
+Air Filter Pressure Drop,20,inf,Medium
