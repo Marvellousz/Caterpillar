@@ -1,5 +1,3 @@
-Here’s a sample README file for your Caterpillar Hackathon project:
-
 ---
 
 # Proactive Equipment Failure Detection System
