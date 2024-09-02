@@ -58,8 +58,8 @@ The system is built using a combination of Flask for the backend, Next.js for th
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/caterpillar-hackathon
-   cd caterpillar-hackathon
+   git clone https://github.com/Marvellousz/Caterpillar
+   cd Marvellousz
    ```
 
 2. **Backend Setup:**
