@@ -1,5 +1,3 @@
----
-
 # Proactive Equipment Failure Detection System
 
 Welcome to the Proactive Equipment Failure Detection System developed during the Caterpillar Hackathon. This project aims to predict potential equipment failures using telematics data, allowing for timely maintenance and minimizing downtime.
@@ -123,6 +121,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 We would like to thank Caterpillar for organizing the hackathon and providing this incredible opportunity. Special thanks to our team members and all the participants for their collaboration and innovation.
 
----
 
-Feel free to customize this README to better fit your project details.
